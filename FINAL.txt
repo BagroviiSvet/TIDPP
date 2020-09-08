@@ -1,0 +1,20 @@
+commit d2a95ac0d377242eefa87005842d2d0ba957b367 (HEAD -> main, origin/main)
+Merge: a7294ee f253c42
+Author: Cozlenco Yuri TI-185 <62337936+BagroviiSvet@users.noreply.github.com>
+Date:   Tue Sep 8 18:31:11 2020 +0300
+
+    Merge pull request #2 from BagroviiSvet/branch8
+
+    Branch8
+
+commit f253c4233f75edaac5470eae1a71a56b8dd9d1a8 (origin/branch8)
+Merge: e2fd1e9 a7294ee
+Author: Cozlenco Yuri TI-185 <62337936+BagroviiSvet@users.noreply.github.com>
+Date:   Tue Sep 8 18:31:04 2020 +0300
+
+    Merge branch 'main' into branch8
+
+commit a7294ee11942983a9dd4eaf85c837ca034f68523
+Merge: af52f00 3c300d7
+Author: Cozlenco Yuri TI-185 <62337936+BagroviiSvet@users.noreply.github.com>
+Date:   Tue Sep 8 18:30:24 2020 +0300
